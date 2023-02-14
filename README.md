@@ -1,2 +1,2 @@
 # Portfolio
-Some of my past projects
+Some of my own projects in the past
